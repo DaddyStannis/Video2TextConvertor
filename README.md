@@ -12,7 +12,7 @@ Add the environment variable OPENAI_API_KEY with your OpenAI key before running 
 
 ### Execution:
 
-> `node video2text_converter.js /path/to/your/video.mp4`
+> `node main.js /path/to/your/video.mp4`
 
 ### Output file:
 

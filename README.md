@@ -18,6 +18,16 @@ Add the environment variable OPENAI_API_KEY with your OpenAI key before running 
 
 > `output.txt`
 
+### Supported Formats
+
+> - "mp3"
+> - "mp4"
+> - "mpeg"
+> - "mpga"
+> - "m4a"
+> - "wav"
+> - "webm"
+
 ## Requirements
 
 > - NodeJS
